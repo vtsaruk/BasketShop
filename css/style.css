@@ -1,0 +1,57 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+.basket_box{
+	padding: 11px;
+	margin-top: 53px;
+}
+
+.basket_count{
+	margin: 22px 0px 0px 20px;
+	
+
+}
+.bascet_price{
+	padding-left: 20px;
+	margin-bottom: 26px;
+}
+.basket_wind{
+	border: 1px solid #ebebeb;
+}
+.basket img{
+	width: 100%;
+}
+.form-horizontal{
+	padding-bottom: 40px;
+}
+.basket_delet{
+	display:block;
+	height: 62px;
+	line-height: 62px;
+	vertical-align: middle;
+	color:#dfb988;
+	border-top: 1px solid #ebebeb;
+	padding-left: 20px;
+}
+.basket_hid input{
+	border-left: 0px;
+	border-top: 0px;
+	border-right: 0px;
+	border-radius: 0px;
+}
+.basket input{
+	margin-top: 14px;
+	box-shadow: 0 0 0 rgba(0,0,0,0);
+	font-size: 10px;
+	
+}
+.basket_input_green{
+	background: #27a59a;
+	color:#fff;
+}
+.basket_sum{
+	font-size: 26px;
+
+}
